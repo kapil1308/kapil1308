@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data science and Machine learning**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at **my github profile**
 
 - 💬 Ask me about **anything. Might be able to help, but just don't hesitate to ask :)**
 
